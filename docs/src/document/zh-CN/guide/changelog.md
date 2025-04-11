@@ -12,7 +12,7 @@
 
 ::: demo
 <template>
-  <lay-timeline>
+  <lay-timeline> 
     <lay-timeline-item title="2.21.x">
       <ul>
         <a name="2-21-2"></a>
